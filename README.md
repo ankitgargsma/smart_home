@@ -9,14 +9,14 @@ You just need a NodeMCU module(ESP8266), a relay module (its pins depends on you
 
 # Components required - 
 Arduino UNO
-Relay Module
-DTMF Module
-Bluetooth Module
-Jumper wires
-Breadboard/PCB(according to your preference)
-Screwdriver
-Electric tape for insulation
-Android App for desired option
+,Relay Module
+,DTMF Module
+,Bluetooth Module
+,Jumper wires
+,Breadboard/PCB(according to your preference)
+,Screwdriver
+,Electric tape for insulation
+ and Android App for desired option.
 
 # DTMF Version (Instructions to operate) - 
 if you press 1 – Device 1 will be ON.
