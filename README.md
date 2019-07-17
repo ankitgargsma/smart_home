@@ -7,6 +7,17 @@ As now a days everyone seeks comfort and security so for the persons who want to
 
 You just need a NodeMCU module(ESP8266), a relay module (its pins depends on your requirement of how many things you want to automate), a stable internet connection and yes a mobile app to communicate over the cloud platform you'll use. And thats it.
 
+# Components required - 
+Arduino UNO
+Relay Module
+DTMF Module
+Bluetooth Module
+Jumper wires
+Breadboard/PCB(according to your preference)
+Screwdriver
+Electric tape for insulation
+Android App for desired option
+
 # DTMF Version (Instructions to operate) - 
 if you press 1 – Device 1 will be ON.
 
